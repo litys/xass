@@ -1,2 +1,3 @@
 # xass
-CSS Library
+
+CSS Library [Polish language]
